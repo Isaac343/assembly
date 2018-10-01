@@ -1,0 +1,17 @@
+list p=16f84a
+include <p16f84a.inc>
+
+ORG 0
+
+INICIO	bsf STATUS,RP0
+		clrf TRISB
+		MOVLW B'11111111'
+		MOVWF TRISA
+		bcf STATUS,RP0
+
+ACTION	MOVF PORTA,W
+		MOVWF PORTB
+		
+GOTO ACTION
+
+END

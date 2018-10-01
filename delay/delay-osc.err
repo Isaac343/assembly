@@ -1,0 +1,6 @@
+Warning[205] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 1 : Found directive in column 1. (list)
+Warning[205] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 2 : Found directive in column 1. (include)
+Warning[205] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 4 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 17 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\CENTRO001\DOCUMENTS\DELAY-OSC.ASM 19 : Found directive in column 1. (END)

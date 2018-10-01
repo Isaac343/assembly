@@ -1,0 +1,19 @@
+Warning[205] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 1 : Found directive in column 1. (list)
+Warning[205] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 2 : Found directive in column 1. (include)
+Warning[205] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 5 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 8 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 45 : Found label after column 1. (DECREMENTO)
+Message[305] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 45 : Using default destination of 1 (file).
+Warning[203] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 47 : Found opcode in column 1. (RETURN)
+Warning[203] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 49 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\HP-01\DOCUMENTS\ENSAMBLADOR\7SEG.ASM 51 : Found directive in column 1. (END)

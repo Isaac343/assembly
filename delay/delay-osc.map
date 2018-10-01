@@ -1,0 +1,36 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Sep 26 09:12:39 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000012
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000008      
+            9 out of 1094 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ACTION   0x000004    program     static C:\Users\centro001\Documents\delay-osc.asm
+                   INICIO   0x000000    program     static C:\Users\centro001\Documents\delay-osc.asm
+                   SECOND   0x000006    program     static C:\Users\centro001\Documents\delay-osc.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000000    program     static C:\Users\centro001\Documents\delay-osc.asm
+                   ACTION   0x000004    program     static C:\Users\centro001\Documents\delay-osc.asm
+                   SECOND   0x000006    program     static C:\Users\centro001\Documents\delay-osc.asm
+
+
