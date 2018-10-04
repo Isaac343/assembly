@@ -8,22 +8,22 @@ INICIO	bsf STATUS,RP0		;diccionario 0
 		clrf TRISB			;puerto b -> salida
 		bcf STATUS,RP0		;diccionario 0
 
-ACTION	movlw B'1111110'	;B -> 0
+ACTION	movlw B'0000001'	;B -> 0
 		movwf TRISB			;
 		call DELAY			;llamar subrutina
-		movlw B'0110000'	;B -> 1
+		movlw B'1001111'	;B -> 1
 		movwf TRISB
 		call DELAY			;llamar subrutina
-		movlw B'1101101'	;B -> 2
+		movlw B'0010010'	;B -> 2
 		movwf TRISB
 		call DELAY
-		movlw B'1111001'	;B -> 3
+		movlw B'0000110'	;B -> 3
 		movwf TRISB
 		call DELAY
-		movlw B'0110011'	;B -> 4
+		movlw B'1001100'	;B -> 4
 		movwf TRISB
 		call DELAY
-		movlw B'1011011'	;B -> 5
+		movlw B'0100000'	;B -> 5
 		movwf TRISB
 		call DELAY
 		movlw B'1011111'	;B -> 6
@@ -44,8 +44,8 @@ DELAY			movlw D'100'	;declarar contador
 				movwf TIME	;W -> TIME
 	DECREMENTO	decfsz TIME	;decrementar TIME
 				goto DECREMENTO	;ir a DECREMENTO
-RETURN 	;salir de la subrrutina
-		
+RETURN 	;salir de la subrutina
+
 GOTO ACTION
 
 END
